@@ -28,7 +28,7 @@
             <li><NuxtLink to="/#about" class="hover:text-white transition-colors">About Us</NuxtLink></li>
             <li><NuxtLink to="/#about" class="hover:text-white transition-colors">Careers</NuxtLink></li>
             <li><NuxtLink to="/#about" class="hover:text-white transition-colors">Press & Media</NuxtLink></li>
-            <li><NuxtLink to="/#about" class="hover:text-white transition-colors">Blog</NuxtLink></li>
+            <li><NuxtLink to="/blog" class="hover:text-white transition-colors">Blog & News</NuxtLink></li>
           </ul>
         </div>
 

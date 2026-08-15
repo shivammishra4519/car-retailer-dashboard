@@ -140,7 +140,7 @@ const navLinks = [
   { name: 'About Us', path: '/#about' },
   { name: 'Safety', path: '/#safety' },
   { name: 'Careers', path: '/#careers' },
-  { name: 'Blog', path: '/#blog' },
+  { name: 'Blog', path: '/blog' },
   { name: 'Press', path: '/#press' },
   { name: 'Contact Us', path: '/contact' },
 ]
