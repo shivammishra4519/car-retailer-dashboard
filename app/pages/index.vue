@@ -6,6 +6,9 @@
     <!-- Top Car Brands Continuous Infinite Marquee Section (Image 3 Design) -->
     <TopBrandsSection />
 
+    <!-- Our Services Section (Multi-day, Bulk/Wedding, Hourly, Host & Earn, Self-Drive, Chauffeur) -->
+    <OurServicesSection />
+
     <!-- Fleet / Vehicle Overview Section -->
     <VehicleCategories />
 
