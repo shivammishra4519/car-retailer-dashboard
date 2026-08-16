@@ -137,11 +137,11 @@ const isScrolled = ref(false)
 
 const navLinks = [
   { name: 'Home', path: '/' },
-  { name: 'About Us', path: '/#about' },
+  { name: 'About Us', path: '/about' },
+  { name: 'How to use', path: '/how-to-use' },
   { name: 'Safety', path: '/#safety' },
   { name: 'Careers', path: '/#careers' },
   { name: 'Blog', path: '/blog' },
-  { name: 'Press', path: '/#press' },
   { name: 'Contact Us', path: '/contact' },
 ]
 

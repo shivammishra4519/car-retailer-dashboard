@@ -25,9 +25,9 @@
         <div>
           <h4 class="text-xs font-bold uppercase tracking-widest text-neutral-400 mb-4">Company</h4>
           <ul class="space-y-2.5 text-sm text-neutral-400">
-            <li><NuxtLink to="/#about" class="hover:text-white transition-colors">About Us</NuxtLink></li>
+            <li><NuxtLink to="/about" class="hover:text-white transition-colors">About Us</NuxtLink></li>
+            <li><NuxtLink to="/how-to-use" class="hover:text-white transition-colors">How to Use</NuxtLink></li>
             <li><NuxtLink to="/#about" class="hover:text-white transition-colors">Careers</NuxtLink></li>
-            <li><NuxtLink to="/#about" class="hover:text-white transition-colors">Press & Media</NuxtLink></li>
             <li><NuxtLink to="/blog" class="hover:text-white transition-colors">Blog & News</NuxtLink></li>
           </ul>
         </div>
